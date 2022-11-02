@@ -1,0 +1,25 @@
+.main-div {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 50px;
+  column-gap: 10px;
+  row-gap: 10px;
+}
+
+.div-one {
+  background-color: lightblue;
+  height: 100px;
+}
+
+.div-two {
+  background-color: lightpink;
+}
+
+.div-three {
+  background-color: aqua;
+}
+
+.div-four {
+  background-color: gray;
+  color: red;
+}

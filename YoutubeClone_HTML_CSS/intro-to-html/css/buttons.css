@@ -1,0 +1,219 @@
+.subs-btn {
+  background-color: rgb(200, 0, 0);
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: opacity 0.15s;
+}
+
+.subs-btn:hover {
+  /* background-color: rgb(189, 59, 59); */
+  opacity: 0.8;
+}
+
+.subs-btn:active {
+  /* background-color: rgb(199, 127, 127); */
+  opacity: 0.5;
+}
+
+.join-btn {
+  background-color: white;
+  border-color: rgb(41, 118, 211);
+  border-style: solid;
+  border-width: 1px;
+  color: rgb(41, 118, 211);
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.join-btn:hover {
+  background-color: rgb(41, 118, 211);
+  color: white;
+}
+
+.join-btn:active {
+  opacity: 0.7;
+}
+
+.twt-btn {
+  background-color: rgb(2, 158, 255);
+  border: none;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 18px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 8px;
+  transition: box-shadow 0.15s;
+}
+
+.twt-btn:hover {
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.15);
+}
+
+.req-btn {
+  background-color: black;
+  color: white;
+  border-width: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-left: 8px;
+  transition: opacity 0.15s;
+}
+
+.req-btn:hover {
+  opacity: 0.78;
+}
+
+.req-btn:active {
+  opacity: 0.5;
+}
+
+.cart-btn {
+  background-color: rgb(248, 248, 31);
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 18px;
+  font-weight: bold;
+  transition: background-color 0.15s;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.cart-btn:hover {
+  background-color: rgb(218, 218, 24);
+}
+
+.sign-btn {
+  background-color: rgb(0, 156, 60);
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-top: 8px;
+  cursor: pointer;
+}
+
+.sign-btn:hover {
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.15);
+}
+
+.sign-btn:active {
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+}
+
+.get-btn {
+  background-color: rgb(141, 0, 177);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.15s;
+  margin-left: 8px;
+}
+
+.get-btn:hover {
+  background-color: rgb(114, 0, 143);
+}
+
+.get-btn:active {
+  background-color: rgb(94, 1, 117);
+}
+
+.dl-btn {
+  margin-left: 8px;
+  background-color: white;
+  border-color: gray;
+  border-style: solid;
+  border-radius: 4px;
+  border-width: 1px;
+  color: gray;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.dl-btn:hover {
+  background-color: gray;
+  color: white;
+}
+
+.dl-btn:active {
+  opacity: 0.7;
+}
+
+.app-web-btn {
+  background-color: rgb(32, 92, 204);
+  color: white;
+  border: none;
+  border-radius: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.15s;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.app-web-btn:hover {
+  background-color: rgb(30, 79, 172);
+}
+
+.sv-btn {
+  background-color: white;
+  color: rgb(41, 118, 211);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 18px;
+  border-color: rgb(41, 118, 211);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.sv-btn:hover {
+  background-color: rgb(203, 226, 255);
+}

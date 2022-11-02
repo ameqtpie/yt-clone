@@ -1,0 +1,132 @@
+.first {
+  background-color: lightblue;
+}
+
+.second {
+  background-color: lightpink;
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+}
+
+.third {
+  background-color: lightblue;
+  width: 100px;
+}
+
+.forth {
+  background-color: lightpink;
+  flex: 1;
+}
+
+.fifth {
+  background-color: lightblue;
+  flex: 2;
+}
+
+.flexbox-one {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  height: 70px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  justify-content: start;
+}
+
+.flexbox-two {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  height: 70px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  justify-content: end;
+}
+
+.flexbox-three {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  height: 70px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  justify-content: center;
+}
+
+.flexbox-four {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  height: 70px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  justify-content: space-between;
+}
+
+.flexbox-five {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  height: 70px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  justify-content: space-between;
+  align-items: stretch;
+}
+.flexbox-six {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  height: 70px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  justify-content: space-between;
+  align-items: start;
+}
+.flexbox-seven {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  height: 70px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  justify-content: space-between;
+  align-items: end;
+}
+.flexbox-eight {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  height: 70px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.one {
+  background-color: lightblue;
+  width: 100px;
+}
+
+.two {
+  background-color: lightpink;
+  width: 100px;
+}
+
+.three {
+  background-color: lightslategray;
+  width: 100px;
+}
